@@ -1,0 +1,186 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Pokemon - If trainers were smarter",
+      "descricao": "If trainers were smarter",
+      "cor": "#008BBA"
+    },
+    {
+      "id": 2,
+      "titulo": "Mario",
+      "descricao": "Paródias do personagem Mario",
+      "cor": "#5E412F"
+    },
+    {
+      "titulo": "Sonic",
+      "descricao": "Paródias do personagem Sonic",
+      "cor": "#6E9ECF",
+      "id": 3
+    },
+    {
+      "titulo": "Pokemon",
+      "descricao": "Paródias do mundo Pokemon",
+      "cor": "#5BB12F",
+      "id": 4
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "If Pokemon Trainers Were Smart",
+      "url": "https://www.youtube.com/watch?v=pk26B1Hi_yY&list=PLmsMGFIWAJdJ1nceYOGUO3fqUtfm3slyt",
+      "categoriaId": 1,
+      "id": 17
+    },
+    {
+      "titulo": "If Pokemon Trainers Were Even Smarter",
+      "url": "https://www.youtube.com/watch?v=KFy2LgHmB9g&list=PLmsMGFIWAJdJ1nceYOGUO3fqUtfm3slyt&index=2",
+      "categoriaId": 1,
+      "id": 18
+    },
+    {
+      "titulo": "If Pokemon Trainers Were SUPER Smart",
+      "url": "https://www.youtube.com/watch?v=On_JaxvOxsg&list=PLmsMGFIWAJdJ1nceYOGUO3fqUtfm3slyt&index=3",
+      "categoriaId": 1,
+      "id": 19
+    },
+    {
+      "titulo": "If Pokemon Trainers Were ACTUALLY Smart",
+      "url": "https://www.youtube.com/watch?v=UWdj7ns2AdE&list=PLmsMGFIWAJdJ1nceYOGUO3fqUtfm3slyt&index=4",
+      "categoriaId": 1,
+      "id": 20
+    },
+    {
+      "titulo": "If Pokemon Trainers Were the Smartest Ever",
+      "url": "https://www.youtube.com/watch?v=gZeCLlfhTq0&list=PLmsMGFIWAJdJ1nceYOGUO3fqUtfm3slyt&index=5",
+      "categoriaId": 1,
+      "id": 21
+    },
+    {
+      "titulo": "If Pokemon Trainers Were Smart (Full Series)",
+      "url": "https://www.youtube.com/watch?v=Fn8kNivcZy8&t=1s",
+      "categoriaId": 1,
+      "id": 22
+    },
+    {
+      "titulo": "If Mario & Sonic Swapped Sidekicks",
+      "url": "https://www.youtube.com/watch?v=GLnU5BlsDA0&list=PLmsMGFIWAJdKboUBpwCph3ZNF4YmkY8mP&index=2&t=0s",
+      "categoriaId": 2,
+      "id": 23
+    },
+    {
+      "titulo": "Luigi's Bad Day",
+      "url": "https://www.youtube.com/watch?v=di1u5xt-0j0&list=PLmsMGFIWAJdKboUBpwCph3ZNF4YmkY8mP&index=2",
+      "categoriaId": 2,
+      "id": 24
+    },
+    {
+      "titulo": "Luigi Reacts to Mario Goes Berserk",
+      "url": "https://www.youtube.com/watch?v=MSTXnQtgE60&list=PLmsMGFIWAJdKboUBpwCph3ZNF4YmkY8mP&index=3",
+      "categoriaId": 2,
+      "id": 25
+    },
+    {
+      "titulo": "The Sad Life of a Thwomp",
+      "url": "https://www.youtube.com/watch?v=KgiakbGnbAk&list=PLmsMGFIWAJdKboUBpwCph3ZNF4YmkY8mP&index=4",
+      "categoriaId": 2,
+      "id": 26
+    },
+    {
+      "titulo": "Mario is a MONSTER",
+      "url": "https://www.youtube.com/watch?v=PcRAYRirtZQ&list=PLmsMGFIWAJdKboUBpwCph3ZNF4YmkY8mP&index=6",
+      "categoriaId": 2,
+      "id": 27
+    },
+    {
+      "titulo": "Why Mario Maker is Actually Torture",
+      "url": "https://www.youtube.com/watch?v=X4Myo7yGYgg&list=PLmsMGFIWAJdKboUBpwCph3ZNF4YmkY8mP&index=7",
+      "categoriaId": 2,
+      "id": 28
+    },
+    {
+      "titulo": "The Darkest Yoshi Dorkly Bits (Compilation)",
+      "url": "https://www.youtube.com/watch?v=eqjPlE4xfEM&list=PLmsMGFIWAJdKboUBpwCph3ZNF4YmkY8mP&index=9",
+      "categoriaId": 2,
+      "id": 29
+    },
+    {
+      "titulo": "Tails Can't Die",
+      "url": "https://www.youtube.com/watch?v=MR2JzK-y5_g&list=PLmsMGFIWAJdIEdn7Q0Vmk4sOQoxd6Q9V-&index=2&t=0s",
+      "categoriaId": 3,
+      "id": 30
+    },
+    {
+      "titulo": "Sonic Goes Berserk",
+      "url": "https://www.youtube.com/watch?v=5h7EQa86uks&list=PLmsMGFIWAJdIEdn7Q0Vmk4sOQoxd6Q9V-&index=3",
+      "categoriaId": 3,
+      "id": 31
+    },
+    {
+      "titulo": "Meet Metal Sonic",
+      "url": "https://www.youtube.com/watch?v=5lea-Dx6b5Y&list=PLmsMGFIWAJdIEdn7Q0Vmk4sOQoxd6Q9V-&index=4",
+      "categoriaId": 3,
+      "id": 32
+    },
+    {
+      "titulo": "If Nintendo Owned Sonic",
+      "url": "https://www.youtube.com/watch?v=ytXpHrq9xoI&list=PLmsMGFIWAJdIEdn7Q0Vmk4sOQoxd6Q9V-&index=5",
+      "categoriaId": 3,
+      "id": 33
+    },
+    {
+      "titulo": "Sonic Wasn't Fast Enough",
+      "url": "https://www.youtube.com/watch?v=upLRB6ZafhA&list=PLmsMGFIWAJdIEdn7Q0Vmk4sOQoxd6Q9V-&index=6",
+      "categoriaId": 3,
+      "id": 34
+    },
+    {
+      "titulo": "Sonic vs. The Pokemon World",
+      "url": "https://www.youtube.com/watch?v=K5wavxZEkZo&list=PLmsMGFIWAJdIEdn7Q0Vmk4sOQoxd6Q9V-&index=7",
+      "categoriaId": 3,
+      "id": 35
+    },
+    {
+      "titulo": "Robotnik Finally Wins",
+      "url": "https://www.youtube.com/watch?v=uR_Cebd4lSo&list=PLmsMGFIWAJdIEdn7Q0Vmk4sOQoxd6Q9V-&index=8",
+      "categoriaId": 3,
+      "id": 36
+    },
+    {
+      "titulo": "Sonic Frees the Forest Animals",
+      "url": "https://www.youtube.com/watch?v=S1_R6-bfMvk&list=PLmsMGFIWAJdIEdn7Q0Vmk4sOQoxd6Q9V-&index=22",
+      "categoriaId": 3,
+      "id": 37
+    },
+    {
+      "titulo": "The Pokemon Most Disappointed With Their Evolutions",
+      "url": "https://www.youtube.com/watch?v=KzZqxkkUHLc&list=PLmsMGFIWAJdKXMw2ID6cEMt1VFN7kr3E8&index=2",
+      "categoriaId": 4,
+      "id": 38
+    },
+    {
+      "titulo": "More Pokemon Disappointed With Their Evolution",
+      "url": "https://www.youtube.com/watch?v=d4Lk5cjfwPA&list=PLmsMGFIWAJdKXMw2ID6cEMt1VFN7kr3E8&index=3",
+      "categoriaId": 4,
+      "id": 39
+    },
+    {
+      "titulo": "If Pokemon Evolutions Were Realistic",
+      "url": "https://www.youtube.com/watch?v=kTthcMOODvc&list=PLmsMGFIWAJdKXMw2ID6cEMt1VFN7kr3E8&index=4",
+      "categoriaId": 4,
+      "id": 40
+    },
+    {
+      "titulo": "Why Pokemon Shouldn't Visit Their Hometown",
+      "url": "https://www.youtube.com/watch?v=vjO-gMJgaiY&list=PLmsMGFIWAJdKXMw2ID6cEMt1VFN7kr3E8&index=6",
+      "categoriaId": 4,
+      "id": 41
+    },
+    {
+      "titulo": "More Pokemon Who Are Disappointed With Their Evolutions",
+      "url": "https://www.youtube.com/watch?v=iA5u80nS1PQ&list=PLmsMGFIWAJdKXMw2ID6cEMt1VFN7kr3E8&index=7",
+      "categoriaId": 4,
+      "id": 42
+    }
+  ]
+}
